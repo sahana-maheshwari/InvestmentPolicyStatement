@@ -19,8 +19,8 @@ A client needs a disciplined, documented framework for how their money will be i
 
 ## Deliverables
 
-- [`Investment Policy Statement .docx`](Investment%20Policy%20Statement%20.docx) — the full IPS: purpose, duties, client profile, risk/return, asset allocation, investment philosophy, performance evaluation, rebalancing, and review policy.
-- [`Basic Investment Pf Model_Tech & SPY_Forecasting adjusted-2.xlsx`](Basic%20Investment%20Pf%20Model_Tech%20&%20SPY_Forecasting%20adjusted-2.xlsx) — the supporting portfolio and forecasting model.
+- [`investment_policy_statement.docx`](investment_policy_statement.docx) — the full IPS: purpose, duties, client profile, risk/return, asset allocation, investment philosophy, performance evaluation, rebalancing, and review policy.
+- [`investment_portfolio_model.xlsx`](investment_portfolio_model.xlsx) — the supporting portfolio and forecasting model.
 
 ## Stack
 
