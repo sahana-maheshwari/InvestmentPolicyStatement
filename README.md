@@ -17,6 +17,13 @@ A client needs a disciplined, documented framework for how their money will be i
 - **Strategy design:** strategic asset allocation, a "sleeve" approach to organizing holdings, equity selection criteria, tax considerations, and a rebalancing policy.
 - **Quantitative model:** an Excel portfolio model (Tech & SPY) with return forecasting to support allocation and performance-evaluation decisions.
 
+## Results
+
+![Donut chart of target asset allocation: 60.5% equity, 26.0% fixed income, 12.5% alternatives, 1.0% cash and equivalents](asset_allocation.png)
+
+- **Target allocation:** 60.5% equity, 26.0% fixed income, 12.5% alternatives, 1.0% cash — an equity-led strategy consistent with the client's risk tolerance and growth objectives.
+- **Complete portfolio:** expected return of 31.62% with a Sharpe ratio of 2.09 at the chosen risk-aversion level.
+
 ## Deliverables
 
 - [`investment_policy_statement.docx`](investment_policy_statement.docx) — the full IPS: purpose, duties, client profile, risk/return, asset allocation, investment philosophy, performance evaluation, rebalancing, and review policy.
